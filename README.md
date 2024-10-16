@@ -16,13 +16,48 @@
  
 <h3>You can also find me on:</h3>
 <p align="center">
-<a href="https://x.com/akaswang" target="_blank"><img align="center" src="social/x.svg" width="40px" alt="akaswang"/></a>&nbsp;
-<a href="https://linkedin.com/in/akaswang" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="akaswang"/></a>&nbsp;
+<a href="https://x.com/akaswang" target="_blank"><img align="center" src="social/x.svg" width="40px" alt="akaswang"/></a>
+<a href="https://linkedin.com/in/akaswang" target="_blank"><img align="center" src="social/linkedin.svg" width="50px" alt="akaswang"/></a>
 <a href="https://codeforces.com/profile/akaswang" target="_blank"><img align="center" src="social/codeforces.svg" width="40px" alt="akaswang"/></a>&nbsp;
 <a href="https://www.leetcode.com/akaswang" target="_blank"><img align="center" width="40px" src="social/leetcode.svg" alt="akaswang"/></a>&nbsp;
 <a href="https://www.codechef.com/users/akaswang" target="_blank"><img align="center" width="40px" src="social/codechef.svg" alt="akaswang"/></a>&nbsp;
 </p>
   
+</details>&nbsp;
+
+
+<details>
+<summary><h2>My Tech Stack</h2></summary>
+
+<h3>👨‍💻 Programming and Markup Languages:</h3>&nbsp;
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,ts,go,latex,html,css,mysql&perline=10" />
+  </a>
+</p>
+
+&nbsp;
+<h3>🧳 Database and Cloud Hosting:</h3>&nbsp;
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,azure,docker,gcp,kubernetes,appwrite,firebase&perline=10" />
+  </a>
+</p>
+
+&nbsp;
+<h3>🧰 Frameworks and Libraries:</h3>&nbsp;
+ <p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,angular,vue,bootstrap,jquery,react,tailwind,threejs,django,dotnet,wordpress,tensorflow,pytorch,dart,flutter,kotlin&perline=10" />
+  </a>
+</p>
+&nbsp;
+ <h3>💻 Software and Tools:</h3>&nbsp;
+ <p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=arduino,ps,powershell,autocad,blender,git,github,gitlab,githubactions,figma,linux,matlab,postman&perline=10" />
+  </a>
+</p>
 </details>
 
 
