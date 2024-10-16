@@ -1,4 +1,4 @@
-[<img src="gif\dog.webp" width="100%">]()
+[<img src="gif\one piece.gif" width="100%">]()
 
 ### <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=55&pause=400&vCenter=true&width=750&color=1e90ff&lines=Hello,+I+am+Akash+Dewangan.;Welcome+to+my+Github+Profile!;)<p>
 
