@@ -1,6 +1,5 @@
-[<img src="gif\one piece.gif" width="100%">]()
-
-### <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=55&pause=400&vCenter=true&width=750&color=1e90ff&lines=Hello,+I+am+Akash+Dewangan.;Welcome+to+my+Github+Profile!;)<p>
+[<img src="gif\kirby.gif" width="100%">]()
+[<img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=55&pause=400&vCenter=true&width=750&color=1e90ff&lines=Hello,+I+am+Akash+Dewangan.;Welcome+to+my+Github+Profile!;" alt="Typing SVG" />](https://git.io/typing-svg)
 
 <details open style="margin: 0; padding: 0; margin-bottom: -15px;" >
 <summary><h2> akaswang </h2></summary>
