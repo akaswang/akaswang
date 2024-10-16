@@ -50,7 +50,7 @@
   <img src="tech\language\css.svg" width="40" alt="css">
   <img src="tech\language\tailwindcss.svg" width="40" alt="tailwindcss">
   <img src="tech\language\javascript.svg" width="40" alt="javascript">
-  <img src="tech\language\typescript.svg" width="40" alt="typescript">
+  <img src="tech\language\typescript.svg" width="40" alt="typescript"><br>
   <img src="tech\language\yaml.svg" width="40" alt="yaml">
   <img src="tech\language\mysql.svg" width="40" alt="mysql">
   <img src="tech\language\postgressql.svg" width="40" alt="postgressql">
@@ -75,7 +75,7 @@
   <img src="tech\library\sanity.svg"
    width="40" alt="sanity">
    <img src="tech\library\mongodb.svg" width="40" alt="mongodb">
-  <img src="tech\library\pandas.svg" width="40" alt="pandas">
+  <img src="tech\library\pandas.svg" width="40" alt="pandas"><br>
   <img src="tech\library\numpy.svg" width="40" alt="numpy">
   <img src="tech\library\django.svg" width="40" alt="django">
   <img src="tech\library\surrealdb.svg" width="40" alt="surrealdb">
@@ -90,7 +90,7 @@
   <img src="tech\library\seaborn.svg" width="40" alt="seaborn">
   <img src="tech\library\scikitlearn.svg" width="40" alt="scikitlearn">
   <img src="tech\library\tensorflow.svg" width="40" alt="tensorflow">
-  <img src="tech\library\superbase.svg" width="40" alt="superbase">
+  <img src="tech\library\superbase.svg" width="40" alt="superbase"><br>
   <img src="tech\library\webflow.svg" width="40" alt="webflow">
 </p>
 
