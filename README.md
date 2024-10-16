@@ -1,6 +1,6 @@
 ### <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=55&pause=400&vCenter=true&width=750&color=1e90ff&lines=Hello,+I+am+Akash+Dewangan.;Welcome+to+my+Github+Profile!;)<p>
 
-<details>
+<details style="margin: 0; padding: 0; margin-bottom: -15px;" >
 <summary><h2> akaswang </h2></summary>
 
 **`Data Scientist/Developer/Competitive Programmer`**
@@ -22,38 +22,12 @@
 <a href="https://www.leetcode.com/akaswang" target="_blank"><img align="center" width="40px" src="social/leetcode.svg" alt="akaswang"/></a>&nbsp;
 <a href="https://www.codechef.com/users/akaswang" target="_blank"><img align="center" width="40px" src="social/codechef.svg" alt="akaswang"/></a>&nbsp;
 </p> 
-</details><details>
-<summary><h2>Tech Arsenal</h2></summary>
+</details>
 
-<h3>👨‍💻 Programming and Markup Languages:</h3>&nbsp;
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,ts,go,latex,html,css,mysql&perline=10" />
-  </a>
-</p>
+<details>
+<summary><h2>tech ecosystem</h2></summary>
 
-&nbsp;
-<h3>🧳 Database and Cloud Hosting:</h3>&nbsp;
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,azure,docker,gcp,kubernetes,appwrite,firebase&perline=10" />
-  </a>
-</p>
 
-&nbsp;
-<h3>🧰 Frameworks and Libraries:</h3>&nbsp;
- <p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,angular,vue,bootstrap,jquery,react,tailwind,threejs,django,dotnet,wordpress,tensorflow,pytorch,dart,flutter,kotlin&perline=10" />
-  </a>
-</p>
-&nbsp;
- <h3>💻 Software and Tools:</h3>&nbsp;
- <p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=arduino,ps,powershell,autocad,blender,git,github,gitlab,githubactions,figma,linux,matlab,postman&perline=10" />
-  </a>
-</p>
 </details>
 
 
