@@ -1,7 +1,9 @@
 <!--[<img src="gif\kirby.gif" width="100%">]()-->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=55&pause=400&vCenter=true&center=true&width=800&color=318ce7&lines=Hello,+I+am+Akash+Dewangan.;Welcome+to+my+Github+Profile!;)
 
-<details open style="margin: 0; padding: 0; margin-bottom: -15px;" >
+[<img src="gif\kirby.gif" width="100%">]()
+
+<details open>
 <summary><h2> akaswang </h2></summary>
 
 **`Developer/Competitive Programmer`**
