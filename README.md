@@ -1,11 +1,11 @@
-### <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=55&pause=400&vCenter=true&width=750&color=1e90ff&lines=Hello,+I+am+Akash+Dewangan.;Welcome+to+see+Github+Profile!;)<p>
+### <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=55&pause=400&vCenter=true&width=750&color=1e90ff&lines=Hello,+I+am+Akash+Dewangan.;Welcome+to+my+Github+Profile!;)<p>
 
-<details open>
+<details>
 <summary><h2> akaswang </h2></summary>
 
 **`Data Scientist/Developer/Competitive Programmer`**
 
-<p align="justify" >Data Science student with a passion for coding, competitive programming, and avoiding the dreaded 'out of memory' error. I'm a full-stack developer who's currently trying to convince my neural network that it's not actually sentient (yet). Beyond my technical skills, I'm a dedicated open-source contributor and a competitive programmer who's always on the lookout for a challenging problem. Let's connect and build something awesome together – or at least something that doesn't crash.</p> 
+<p align="justify" >Data Science student with a passion for coding, competitive programming, and avoiding the dreaded 'out of memory' error. Beyond my technical skills, I'm a dedicated open-source contributor and a competitive programmer who's always on the lookout for challenging problems. Let's connect and build something awesome together – or at least something that doesn't crash.</p> 
 
 <p align="center">
       <a href="https://github.com/akaswang?tab=followers">
@@ -15,13 +15,12 @@
    </p>
  
 <h3>You can also find me on:</h3>
-<br>
 <p align="center">
-<a href="https://x.com/akaswang" target="_blank"><img align="center" src="logo/x.svg" width="50px" alt="akaswang"/></a>&nbsp;
-<a href="https://linkedin.com/in/akaswang" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akaswang"/></a>&nbsp;
-<a href="https://codeforces.com/profile/akaswang" target="_blank"><img align="center" src="logo/codeforces.svg" width="50px" alt="akaswang"/></a>&nbsp;
-<a href="https://www.leetcode.com/akaswang" target="_blank"><img align="center" width="50px" src="logo/leetcode.svg" alt="akaswang"/></a>&nbsp;
-<a href="https://www.codechef.com/users/akaswang" target="_blank"><img align="center" width="50px" src="logo/codechef.svg" alt="akaswang"/></a>&nbsp;
+<a href="https://x.com/akaswang" target="_blank"><img align="center" src="social/x.svg" width="40px" alt="akaswang"/></a>&nbsp;
+<a href="https://linkedin.com/in/akaswang" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="akaswang"/></a>&nbsp;
+<a href="https://codeforces.com/profile/akaswang" target="_blank"><img align="center" src="social/codeforces.svg" width="40px" alt="akaswang"/></a>&nbsp;
+<a href="https://www.leetcode.com/akaswang" target="_blank"><img align="center" width="40px" src="social/leetcode.svg" alt="akaswang"/></a>&nbsp;
+<a href="https://www.codechef.com/users/akaswang" target="_blank"><img align="center" width="40px" src="social/codechef.svg" alt="akaswang"/></a>&nbsp;
 </p>
   
 </details>
