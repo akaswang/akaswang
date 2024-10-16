@@ -1,5 +1,5 @@
 [<img src="gif\kirby.gif" width="100%">]()
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=55&pause=400&vCenter=true&center=true&width=650&color=318ce7&lines=Hello,+I+am+Akash+Dewangan.;Welcome+to+my+Github+Profile!;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=55&pause=400&vCenter=true&center=true&width=800&color=318ce7&lines=Hello,+I+am+Akash+Dewangan.;Welcome+to+my+Github+Profile!;)
 
 <details open style="margin: 0; padding: 0; margin-bottom: -15px;" >
 <summary><h2> akaswang </h2></summary>
@@ -16,7 +16,7 @@
       <img src="https://komarev.com/ghpvc/?username=akaswang&label=Profile%20views&color=55960c&style=for-the-badge" alt="akaswang" />
    </p>
  
-<h3>Connect with me:</h3>
+<h3>&nbsp;&nbsp; Connect with me: </h3>
 <p align="center">
 <a href="https://x.com/akaswang" target="_blank"><img align="center" src="social/x.svg" width="40px" alt="akaswang"/></a>
 <a href="https://linkedin.com/in/akaswang" target="_blank"><img align="center" src="social/linkedin.svg" width="40px" alt="akaswang"/></a>
@@ -34,7 +34,7 @@
 <details>
 <summary><h2> Digital Toolbox </h2></summary>
 
-<h3> Programming and Markup Language:</h3>
+<h3>&nbsp;&nbsp; Programming and Markup Language:</h3>
 <p align="center">
   <img src="tech\language\cpp.svg" width="40" alt="cpp">
   <img src="tech\language\cs.svg" width="40" alt="cs">
@@ -58,7 +58,7 @@
 </p>
 
 
-<h3> Library and Framework:</h3>
+<h3>&nbsp;&nbsp; Library and Framework:</h3>
 <p align="center">
   <img src="tech\library\react.svg" width="40" alt="react">
   <img src="tech\library\redux.svg" width="40" alt="redux">
@@ -95,7 +95,7 @@
 </p>
 
 
-<h3> Development Tools:</h3>
+<h3>&nbsp;&nbsp; Development Tools:</h3>
 <p align="center">
   <img src="tech\development tools\docker.svg" width="40" alt="docker">
   <img src="tech\development tools\git.svg" width="40" alt="git">
@@ -108,7 +108,7 @@
   <img src="tech\development tools\rasberrypi.svg" width="40" alt="rasberrypi">
 </p>
 
-<h3> Software:</h3>
+<h3>&nbsp;&nbsp; Software:</h3>
 <p align="center">
   <img src="tech\software\aws.svg" width="40" alt="aws">
   <img src="tech\software\azure.svg" width="40" alt="azure">
