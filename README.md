@@ -21,10 +21,8 @@
 <a href="https://codeforces.com/profile/akaswang" target="_blank"><img align="center" src="social/codeforces.svg" width="40px" alt="akaswang"/></a>&nbsp;
 <a href="https://www.leetcode.com/akaswang" target="_blank"><img align="center" width="40px" src="social/leetcode.svg" alt="akaswang"/></a>&nbsp;
 <a href="https://www.codechef.com/users/akaswang" target="_blank"><img align="center" width="40px" src="social/codechef.svg" alt="akaswang"/></a>&nbsp;
-</p>
-  
-</details>&nbsp;
-
+</p> 
+</details>
 
 <details>
 <summary><h2>My Tech Stack</h2></summary>
