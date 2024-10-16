@@ -24,13 +24,11 @@
 </p> 
 </details>
 
-<details>
+<details style="margin: 0; padding: 0; margin-bottom: -15px;" >
 <summary><h2>tech ecosystem</h2></summary>
 
 
-</details>
-
-<details>
+</details><details style="margin: 0; padding: 0; margin-bottom: -15px;" >
 <summary><h2>github analytics</h2></summary>
 
 
