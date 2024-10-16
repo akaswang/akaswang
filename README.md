@@ -14,7 +14,7 @@
          <img alt="akaswang's total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akaswang?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star"/></a>
    </p>
  
-<h3>You can also find me on:</h3>
+<h4>Connect with me:</h4>
 <p align="center">
 <a href="https://x.com/akaswang" target="_blank"><img align="center" src="social/x.svg" width="40px" alt="akaswang"/></a>
 <a href="https://linkedin.com/in/akaswang" target="_blank"><img align="center" src="social/linkedin.svg" width="50px" alt="akaswang"/></a>
@@ -25,11 +25,13 @@
 </details>
 
 <details style="margin: 0; padding: 0; margin-bottom: -15px;" >
-<summary><h2>tech ecosystem</h2></summary>
+<summary><h2> proficiencies </h2></summary>
 
 
-</details><details style="margin: 0; padding: 0; margin-bottom: -15px;" >
-<summary><h2>github analytics</h2></summary>
+</details>
+
+<details style="margin: 0; padding: 0; margin-bottom: -15px;" >
+<summary><h2> github overview </h2></summary>
 
 
 </details>
