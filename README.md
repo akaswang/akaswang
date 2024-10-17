@@ -34,7 +34,7 @@
 <details>
 <summary><h2> Digital Toolbox </h2></summary>
 
-<h3>&nbsp;&nbsp; Programming and Markup Language:</h3>
+<h3>&nbsp;&nbsp; Computational Languages: </h3>
 <p align="center">
   <img src="tech\language\cpp.svg" width="40" alt="cpp">
   <img src="tech\language\cs.svg" width="40" alt="cs">
@@ -49,8 +49,8 @@
   <img src="tech\language\html.svg" width="40" alt="html">
   <img src="tech\language\css.svg" width="40" alt="css">
   <img src="tech\language\tailwindcss.svg" width="40" alt="tailwindcss">
-  <img src="tech\language\javascript.svg" width="40" alt="javascript">
-  <img src="tech\language\typescript.svg" width="40" alt="typescript"><br>
+  <img src="tech\language\javascript.svg" width="40" alt="javascript"><br>
+  <img src="tech\language\typescript.svg" width="40" alt="typescript">
   <img src="tech\language\yaml.svg" width="40" alt="yaml">
   <img src="tech\language\mysql.svg" width="40" alt="mysql">
   <img src="tech\language\postgressql.svg" width="40" alt="postgressql">
@@ -58,7 +58,7 @@
 </p>
 
 
-<h3>&nbsp;&nbsp; Library and Framework:</h3>
+<h3>&nbsp;&nbsp; Library and Framework: </h3>
 <p align="center">
   <img src="tech\library\react.svg" width="40" alt="react">
   <img src="tech\library\redux.svg" width="40" alt="redux">
@@ -74,8 +74,8 @@
   <img src="tech\library\shadcnui.svg" width="40" alt="shadcnui">
   <img src="tech\library\sanity.svg"
    width="40" alt="sanity">
-   <img src="tech\library\mongodb.svg" width="40" alt="mongodb">
-  <img src="tech\library\pandas.svg" width="40" alt="pandas"><br>
+   <img src="tech\library\mongodb.svg" width="40" alt="mongodb"><br>
+  <img src="tech\library\pandas.svg" width="40" alt="pandas">
   <img src="tech\library\numpy.svg" width="40" alt="numpy">
   <img src="tech\library\django.svg" width="40" alt="django">
   <img src="tech\library\surrealdb.svg" width="40" alt="surrealdb">
@@ -88,14 +88,14 @@
   <img src="tech\library\keras.svg" width="40" alt="keras">
   <img src="tech\library\matplotlib.svg" width="40" alt="matplotlib">
   <img src="tech\library\seaborn.svg" width="40" alt="seaborn">
-  <img src="tech\library\scikitlearn.svg" width="40" alt="scikitlearn">
+  <img src="tech\library\scikitlearn.svg" width="40" alt="scikitlearn"><br>
   <img src="tech\library\tensorflow.svg" width="40" alt="tensorflow">
-  <img src="tech\library\superbase.svg" width="40" alt="superbase"><br>
+  <img src="tech\library\superbase.svg" width="40" alt="superbase">
   <img src="tech\library\webflow.svg" width="40" alt="webflow">
 </p>
 
 
-<h3>&nbsp;&nbsp; Development Tools:</h3>
+<h3>&nbsp;&nbsp; Development Tools: </h3>
 <p align="center">
   <img src="tech\development tools\docker.svg" width="40" alt="docker">
   <img src="tech\development tools\git.svg" width="40" alt="git">
@@ -108,7 +108,7 @@
   <img src="tech\development tools\rasberrypi.svg" width="40" alt="rasberrypi">
 </p>
 
-<h3>&nbsp;&nbsp; Software:</h3>
+<h3>&nbsp;&nbsp; Software: </h3>
 <p align="center">
   <img src="tech\software\aws.svg" width="40" alt="aws">
   <img src="tech\software\azure.svg" width="40" alt="azure">
