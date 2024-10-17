@@ -1,4 +1,5 @@
 <!--[<img src="gif\kirby.gif" width="100%">]()-->  <!--for banner-->
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=55&pause=400&vCenter=true&center=true&width=800&color=318ce7&lines=Hello,+I+am+Akash+Dewangan.;Welcome+to+my+Github+Profile!;)
 
 <details open>
@@ -24,12 +25,8 @@
 <a href="https://www.leetcode.com/akaswang" target="_blank"><img align="center" width="40px" src="social/leetcode.svg" alt="akaswang"/></a>
 <a href="https://www.codechef.com/users/akaswang" target="_blank"><img align="center" width="40px" src="social/codechef.svg" alt="akaswang"/></a>
 </p> 
-
-
-
-
-
 </details>
+
 
 <details>
 <summary><h2> Digital Toolbox </h2></summary>
@@ -94,7 +91,6 @@
   <img src="tech\library\webflow.svg" width="40" alt="webflow">
 </p>
 
-
 <h3>&nbsp;&nbsp; Development Tools: </h3>
 <p align="center">
   <img src="tech\development tools\docker.svg" width="40" alt="docker">
@@ -124,11 +120,7 @@
   <img src="tech\software\jupyter.svg" width="40" alt="jupyter">
   <img src="tech\software\vercel.svg" width="40" alt="vercel">
 </p>
-
-
 </details>
-
-
 
 
 <details>
@@ -139,24 +131,13 @@
    <a href="#"><img alt="akaswang's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akaswang&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=FFFFFF&border_color=FFFFFF"  height="155px"/></a>  
   </p>
 
-  <p align="center">
-
-  </p>
-
-
   <br/>
 
   <p align="center">
-  <b>Note:</b> Top languages indicate my public code, not my overall skill level.
-  <br>
-  <br>
     <a href="#"><img alt="akaswang's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=akaswang&hide_border=false&bg_color=0d1117&border_color=32cd32&color=FFFFFF&line=1f6feb&point=58a6ff" height="270px"/></a>
   </p>
-
-
 </details>
 
-</details>
 
 <details>
 <summary><h2> Holopin Badges </h2></summary>
