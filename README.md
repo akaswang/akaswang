@@ -124,7 +124,7 @@
 
 
 <details>
-<summary><h2> Git Footprint </h2></summary>
+<summary><h2> Git Footprint </h2></summary>&nbsp;
 
   <p align="center">
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akaswang&theme=github-dark-blue" alt="GitHub Streak" height="155px"/></a> 
@@ -140,7 +140,7 @@
 
 
 <details>
-<summary><h2> Holopin Badges </h2></summary>
+<summary><h2> Holopin Badges </h2></summary>&nbsp;
 
 [![An image of @akaswang's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akaswang)](https://holopin.io/@akaswang)
 
