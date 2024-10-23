@@ -13,8 +13,8 @@
       <a href="https://github.com/akaswang?tab=followers">
          <img alt="akaswang's followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/akaswang?color=ff4721&labelColor=f2411c&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/akaswang?tab=repositories&sort=stargazers">
-         <img alt="akaswang's total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akaswang?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star"/></a>
-      <img src="https://komarev.com/ghpvc/?username=akaswang&label=Profile%20views&color=55960c&style=for-the-badge" alt="akaswang" />
+         <img alt="akaswang's total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akaswang?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <img src="https://komarev.com/ghpvc/?username=akaswang&label=Profile%20views&color=236ad3&style=for-the-badge" alt="akaswang" />
    </p>
  
 <h3>&nbsp;&nbsp; Connect with me: </h3>
