@@ -1,6 +1,6 @@
 <!--[<img src="gif\kirby.gif" width="100%">]()-->  <!--for banner-->
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=55&pause=400&vCenter=true&center=true&width=800&color=318ce7&lines=Hello,+I+am+Akash+Dewangan.;Welcome+to+my+Github+Profile!;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=55&pause=400&vCenter=true&center=true&width=800&color=3bd354&lines=Hello,+I+am+Akash+Dewangan.;Welcome+to+my+Github+Profile!;)
 
 <details open>
 <summary><h2> akaswang </h2></summary>
@@ -127,14 +127,14 @@
 <summary><h2> Git Footprint </h2></summary>&nbsp;
 
   <p align="center">
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akaswang&theme=github-dark-blue" alt="GitHub Streak" height="155px"/></a> 
-   <a href="#"><img alt="akaswang's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akaswang&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=FFFFFF&border_color=FFFFFF"  height="155px"/></a>  
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akaswang&theme=github-dark" alt="GitHub Streak" height="155px"/></a> 
+   <a href="#"><img alt="akaswang's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akaswang&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=3bd354&icon_color=1b68e3&text_color=FFFFFF&border_color=3bd354"  height="155px"/></a>  
   </p>
 
   <br/>
 
   <p align="center">
-    <a href="#"><img alt="akaswang's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=akaswang&hide_border=false&bg_color=0d1117&border_color=32cd32&color=FFFFFF&line=1f6feb&point=58a6ff" height="270px"/></a>
+        <a href="#"><img alt="akaswang's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=akaswang&hide_border=false&bg_color=0d1117&border_color=3bd354&color=FFFFFF&line=3bd354&point=1b68e3&height="270px"/></a>
   </p>
 </details>
 
