@@ -126,8 +126,8 @@
 <summary><h2> Git Footprint </h2></summary>&nbsp;
 
   <p align="center">
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akaswang&theme=github-dark" alt="GitHub Streak" height="155px"/></a> 
-   <a href="#"><img alt="akaswang's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akaswang&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=3bd354&icon_color=1b68e3&text_color=FFFFFF&border_color=3bd354"  height="155px"/></a>  
+        <a href="#"><img alt="akaswang's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akaswang&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=3bd354&icon_color=1b68e3&text_color=FFFFFF&border_color=3bd354"  height="175px"/></a> 
+        <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=false&bg_color=0d1117&title_color=3bd354&icon_color=1b68e3&text_color=FFFFFF&border_color=3bd354" alt="Top Langs" style="height: 175px;"></a>
   </p>
 
   <br/>
