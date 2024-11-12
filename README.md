@@ -126,14 +126,14 @@
 <summary><h2> Git Footprint </h2></summary>&nbsp;
 
   <p align="center">
-        <a href="#"><img alt="akaswang's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akaswang&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=0684F2&icon_color=3bd354&text_color=FFFFFF&border_color=0684F2"  height="165px"/></a> 
-        <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaswang&layout=compact&hide_border=false&bg_color=0d1117&title_color=0684F2&icon_color=1b68e3&text_color=FFFFFF&border_color=0684F2" alt="Top Langs" style="height: 165px;"></a>
+        <a href="#"><img alt="akaswang's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akaswang&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=0684F2&icon_color=3bd354&text_color=FFFFFF&border_color=FFFFFF"  height="165px"/></a> 
+        <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaswang&layout=compact&hide_border=false&bg_color=0d1117&title_color=0684F2&icon_color=1b68e3&text_color=FFFFFF&border_color=FFFFFF" alt="Top Langs" style="height: 165px;"></a>
   </p>
 
   <br/>
 
   <p align="center">
-        <a href="#"><img alt="akaswang's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=akaswang&hide_border=false&bg_color=0d1117&border_color=0684F2&color=FFFFFF&line=0684F2&point=3bd354&title_color=0684F2&height="270px"/></a>
+        <a href="#"><img alt="akaswang's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=akaswang&hide_border=false&bg_color=0d1117&border_color=FFFFFF&color=FFFFFF&line=0684F2&point=3bd354&title_color=0684F2&height="270px"/></a>
   </p>
 </details>
 
