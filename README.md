@@ -20,10 +20,11 @@
 <h3>&nbsp;&nbsp; Connect with me: </h3>
 <p align="center">
 <a href="https://x.com/akaswang" target="_blank"><img align="center" src="social/x.svg" width="40px" alt="akaswang"/></a>
+<a href="https://medium.com/@akaswang" target="_blank"><img align="center" width="40px" src="social/medium.svg" alt="akaswang"/></a>
 <a href="https://linkedin.com/in/akaswang" target="_blank"><img align="center" src="social/linkedin.svg" width="40px" alt="akaswang"/></a>
+<a href="https://www.kaggle.com/akaswang" target="_blank"><img align="center" width="40px" src="social/kaggle.svg" alt="akaswang"/></a>
 <a href="https://codeforces.com/profile/akaswang" target="_blank"><img align="center" src="social/codeforces.svg" width="40px" alt="akaswang"/></a>
 <a href="https://www.leetcode.com/akaswang" target="_blank"><img align="center" width="40px" src="social/leetcode.svg" alt="akaswang"/></a>
-<a href="https://www.codechef.com/users/akaswang" target="_blank"><img align="center" width="40px" src="social/codechef.svg" alt="akaswang"/></a>
 </p> 
 </details>
 
