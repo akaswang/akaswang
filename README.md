@@ -4,6 +4,6 @@
     <a href="https://akaswang.in/blog">blog</a> .
     <a href="https://akaswang.in/projects">projects</a> .
     <a href="https://x.com/akaswang">tweets</a> .
-    <a href="https://www.kaggle.com/akaswang">kaggle</a> .
+    <a href="https://www.kaggle.com/akaswang">kaggle</a>
   </samp>
 </p>
