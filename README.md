@@ -25,8 +25,8 @@
 </details>
 
 
-
-<details open>
+<!--
+<details>
 <summary><h2>Languages and Tools</h2></summary>
 
 <p align="left">
@@ -64,13 +64,7 @@
 <img src="icons/skills/postman.svg" width="35px" alt="postman"/>
 <img src="icons/skills/solidity.svg" width="35px" alt="solidity"/>
 <img src="icons/skills/solana-auto.svg" width="35px" alt="solana"/>
-
-
-
-
-
 </p>
 
 </details>
-
-
+-->
