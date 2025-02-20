@@ -21,7 +21,13 @@
 <a href="https://linkedin.com/in/akaswang" target="_blank"><img align="center" src="icons/socials/linkedin.svg" width="35px" alt="linkedin"/></a>
 </p>
 
-## Languages and Tools
+
+</details>
+
+
+
+<details open>
+<summary><h2>Languages and Tools</h2></summary>
 
 <p align="left">
 <img src="icons/skills/assembly.svg" width="35px" alt="assembly"/>
