@@ -10,7 +10,6 @@
 
 <h3>You can also find me on:</h3>
 
-
 <p align="left">
 <a href="https://akaswang.in" target="_blank"><img align="center" width="35px" src="icons/socials/portfolio.svg" alt="akaswang"/></a>
 <a href="https://akaswang.medium.com/" target="_blank"><img align="center" src="icons/socials/medium.svg" width="35px" alt="medium"/></a>
@@ -18,7 +17,6 @@
 <a href="https://www.kaggle.com/akaswang" target="_blank"><img align="center" width="35px" src="icons/socials/kaggle-auto.svg" alt="kaggle"/></a> 
 <a href="https://linkedin.com/in/akaswang" target="_blank"><img align="center" src="icons/socials/linkedin.svg" width="35px" alt="linkedin"/></a>
 </p>
-
 
 </details>
 
@@ -85,7 +83,6 @@
 <img src="icons/skills/tableau-auto.svg" width="35px" alt="tableau"/>
 </p>
 
-
 <h3>Tools & Other:</h3>
 <p align="left">
 <!-- Tools & Other -->
@@ -94,5 +91,21 @@
 <img src="icons/skills/arduino.svg" width="35px" alt="arduino"/>
 <img src="icons/skills/solana-auto.svg" width="35px" alt="solana"/>
 </p>
+
+</details>
+
+
+
+<details>
+<summary><h2>GitHub Analytics</h2></summary>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=akaswang&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" height="160">&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaswang&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160">
+
+
+
+
 
 </details>
