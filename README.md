@@ -1,7 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=45&pause=400&vCenter=true&center=false&width=800&color=fcc200&lines=Welcome+to+my+Github+Profile+:];Make+sure+to+follow+and+leave+a+star!;)
 
-
-
 <details open>
 <summary><h2>akaswang</h2></summary>
 
@@ -32,6 +30,8 @@
 <h3>Programming Languages:</h3>
 <p align="left">
 <img src="icons/skills/assembly.svg" width="35px" alt="assembly"/>
+<img src="icons/skills/webassembly.svg" width="35px" alt="webassembly"/>
+<img src="icons/skills/c.svg" width="35px" alt="c"/>
 <img src="icons/skills/cpp.svg" width="35px" alt="cpp"/>
 <img src="icons/skills/java-auto.svg" width="35px" alt="java"/>
 <img src="icons/skills/python-auto.svg" width="35px" alt="python"/>
@@ -39,19 +39,26 @@
 <img src="icons/skills/r-auto.svg" width="35px" alt="r"/>
 <img src="icons/skills/javascript.svg" width="35px" alt="javascript"/>
 <img src="icons/skills/typescript.svg" width="35px" alt="typescript"/>
-<img src="icons/skills/solidity.svg" width="35px" alt="solidity"/>
 </p>
 
 <h3>Web Development:</h3>
 <p align="left">
+<img src="icons/skills/html.svg" width="35px" alt="html"/>
+<img src="icons/skills/css.svg" width="35px" alt="css"/>
 <img src="icons/skills/react-auto.svg" width="35px" alt="react"/>
 <img src="icons/skills/nextjs-auto.svg" width="35px" alt="nextjs"/>
 <img src="icons/skills/svelte.svg" width="35px" alt="svelte"/>
 <img src="icons/skills/nuxtjs-auto.svg" width="35px" alt="nuxtjs"/>
+<img src="icons/skills/nodejs-auto.svg" width="35px" alt="nodejs"/>
 <img src="icons/skills/tailwindcss-auto.svg" width="35px" alt="tailwindcss"/>
 <img src="icons/skills/expressjs-auto.svg" width="35px" alt="expressjs"/>
+<img src="icons/skills/threejs-auto.svg" width="35px" alt="threejs"/>
 <img src="icons/skills/django.svg" width="35px" alt="django"/>
 <img src="icons/skills/dotnet.svg" width="35px" alt="dotnet"/>
+<img src="icons/skills/webflow.svg" width="35px" alt="webflow"/>
+<img src="icons/skills/socketio-auto.svg" width="35px" alt="socketio"/>
+<img src="icons/skills/shadcn-auto.svg" width="35px" alt="shadcn"/>
+
 </p>
 
 <h3>Databases & Clouds:</h3>
@@ -62,6 +69,7 @@
 <img src="icons/skills/aws-auto.svg" width="35px" alt="aws"/>
 <img src="icons/skills/azure-auto.svg" width="35px" alt="azure"/>
 <img src="icons/skills/docker.svg" width="35px" alt="docker"/>
+<img src="icons/skills/vercel-auto.svg" width="35px" alt="vercel"/>
 </p>
 
 <h3>Machine Learning & Data Science:</h3>
@@ -74,7 +82,8 @@
 <img src="icons/skills/tableau-auto.svg" width="35px" alt="tableau"/>
 </p>
 
-<h3>Blockchain Technologies:</h3>
+
+<h3>Blockchain & Smart Contracts:</h3>
 <p align="left">
 <img src="icons/skills/solana-auto.svg" width="35px" alt="solana"/>
 <img src="icons/skills/solidity.svg" width="35px" alt="solidity"/>
