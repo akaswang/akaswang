@@ -39,6 +39,7 @@
 <img src="icons/skills/r-auto.svg" width="35px" alt="r"/>
 <img src="icons/skills/javascript.svg" width="35px" alt="javascript"/>
 <img src="icons/skills/typescript.svg" width="35px" alt="typescript"/>
+<img src="icons/skills/solidity.svg" width="35px" alt="solidity"/>
 </p>
 
 <h3>Web Development:</h3>
@@ -83,10 +84,13 @@
 </p>
 
 
-<h3>Blockchain & Smart Contracts:</h3>
+<h3>Tools & Other:</h3>
 <p align="left">
+<!-- Tools & Other -->
+<img src="icons/skills/postman.svg" width="35px" alt="postman"/>
+<img src="icons/skills/raspberrypi-auto.svg" width="35px" alt="raspberrypi"/>
+<img src="icons/skills/arduino.svg" width="35px" alt="arduino"/>
 <img src="icons/skills/solana-auto.svg" width="35px" alt="solana"/>
-<img src="icons/skills/solidity.svg" width="35px" alt="solidity"/>
 </p>
 
 </details>
