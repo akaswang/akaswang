@@ -3,7 +3,7 @@
 
 
 <details open>
-<summary><h2> Akash Dewangan </h2></summary>
+<summary><h2>💡akaswang</h2></summary>
 
 **`Web Developer/ML Engineer`**
 
