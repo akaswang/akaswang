@@ -101,8 +101,8 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=akaswang&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" height="160">&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaswang&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160">
+<img src="https://github-readme-stats.vercel.app/api?username=akaswang&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" height="170">&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaswang&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170">
 
 
 
