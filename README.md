@@ -1,10 +1,2 @@
-<p align="center">
-  <samp>
-    <a href="https://akaswang.in">me</a> .
-    <a href="https://akaswang.in/blog">blog</a> .
-    <a href="https://akaswang.in/projects">projects</a> .
-    <a href="https://www.linkedin.com/in/akaswang/">linkedin</a> .
-    <a href="https://x.com/akaswang">tweets</a> .
-    <a href="https://www.kaggle.com/akaswang">kaggle</a>
-  </samp>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=55&pause=400&vCenter=true&center=true&width=800&color=fcc200&lines=Hello,+I+am+Akash+Dewangan.;Welcome+to+my+Github+Profile!;)
+
