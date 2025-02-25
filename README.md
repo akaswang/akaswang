@@ -20,7 +20,7 @@
 
 </details>
 
-
+<!--
 
 <details>
 <summary><h2>Languages and Tools</h2></summary>
@@ -85,7 +85,7 @@
 
 <h3>Tools & Other:</h3>
 <p align="left">
-<!-- Tools & Other -->
+
 <img src="icons/skills/postman.svg" width="35px" alt="postman"/>
 <img src="icons/skills/raspberrypi-auto.svg" width="35px" alt="raspberrypi"/>
 <img src="icons/skills/arduino.svg" width="35px" alt="arduino"/>
@@ -111,7 +111,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akaswang&bg_color=282828&color=f2b72f&line=86b278&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
-
-
 </details>
+
+-->
