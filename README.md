@@ -5,7 +5,7 @@
 
 **`Web Developer/ML Engineer`**
 
-<p align="justify" >I'm a generalist with a strong interest in web development and machine learning/deep learning, with a focus on building scalable and intelligent systems. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.  Let's connect and build something awesome together – or at least something that doesn't crash.</p> 
+<p align="justify" >I'm a generalist with a strong interest in blockchain technologies and deep learning, with a focus on building scalable and intelligent systems. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.  Let's connect and build something awesome together – or at least something that doesn't crash.</p> 
 
 
 <h3>You can also find me on:</h3>
