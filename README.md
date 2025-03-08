@@ -101,14 +101,14 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=akaswang&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" height="170">&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaswang&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=akaswang&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" height="170">&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaswang&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170">
 
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akaswang&bg_color=141b22&color=046b05&line=0a4211&point=ffffff&area=true&hide_border=false&border_color=046b05)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akaswang&bg_color=282828&color=f2b72f&line=86b278&point=ffffff&area=true&hide_border=true)](#)
 
 
 </details>
