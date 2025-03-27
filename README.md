@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=45&pause=400&vCenter=true&center=false&width=800&color=009e60&lines=Welcome+to+my+Github+Profile+:];Make+sure+to+follow+and+leave+a+star!;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=45&pause=400&vCenter=true&center=false&width=800&color=3cd070&lines=Welcome+to+my+Github+Profile+:];Make+sure+to+follow+and+leave+a+star!;)
 
 <details open>
 <summary><h2>Summary</h2></summary>
