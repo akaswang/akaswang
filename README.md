@@ -10,7 +10,7 @@
 <h3>you can also find me on:</h3>
 
 <p align="left">
-<a href="https://akaswang.in" target="_blank"><img align="center" width="35px" src="icons/socials/portfolio.svg" alt="akaswang"/></a>
+<a href="https://akaswang.com" target="_blank"><img align="center" width="35px" src="icons/socials/portfolio.svg" alt="akaswang"/></a>
 <a href="https://akaswang.medium.com/" target="_blank"><img align="center" src="icons/socials/medium.svg" width="35px" alt="medium"/></a>
 <a href="https://x.com/akaswang" target="_blank"><img align="center" src="icons/socials/x.svg" width="35px" alt="x"/></a>
 <a href="https://www.kaggle.com/akaswang" target="_blank"><img align="center" width="35px" src="icons/socials/kaggle-auto.svg" alt="kaggle"/></a> 
